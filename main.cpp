@@ -2,6 +2,6 @@
 #include <array>
 
 int main() {
-    std::cout << "Intial commit!";
+    std::cout << "Initial commit!";
     return 0;
 }
